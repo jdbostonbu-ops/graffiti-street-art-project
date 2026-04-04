@@ -8,6 +8,7 @@ An immersive educational guide exploring the intersection of digital photography
 - **Modular Navigation**: Custom hover-effect logic applied to an interconnected network of specialized sub-pages (Photography, Culture, Visual Library).
 
 ### 🛠️ Tech Stack
+- **Compatibility**: Mobile iOS/Tablet/iPad
 - **Frontend**: Vanilla JavaScript (ES6+), HTML5
 - **Styling**: CSS3 (Flexbox-driven Step-Containers, Split-Section Grids, and Interactive Hover States)
 - **Vector Graphics**: XML-based SVG icons for resolution-independent UI.
