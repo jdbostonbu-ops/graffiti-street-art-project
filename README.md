@@ -1,6 +1,10 @@
 # Graffiti & Culture | Educational Arts Platform 🎨
 An immersive educational guide exploring the intersection of digital photography, urban culture, and global street art.
 
+## 👤 Author
+**Jacqueline**  
+[Check out my GitHub Profile](https://github.com/jdbostonbu-ops)
+
 ### 🗺️ Key Technical Features
 - **Split-Section Architecture**: A modern, high-impact landing page design utilizing a fixed/scrolling split-screen layout for visual storytelling.
 - **Interactive Progress System**: A "Steps-based" navigation container with active-state styling, allowing users to track their journey through the curriculum.
